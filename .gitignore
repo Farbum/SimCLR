@@ -1,0 +1,12 @@
+*.png
+*.data*
+*.index
+*local_test/TB_log/
+*local_test/model_dir/
+small_sample/
+tiny_sample/
+*.DS_Store
+src/__pycache__/
+.spyproject/
+
+
